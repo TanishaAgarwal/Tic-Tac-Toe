@@ -48,4 +48,8 @@ body {
   .game-info {
     margin-left: 20px;
   }
-  
+  .status{
+    font-size: 25px;
+    font-weight: bold;
+    color:red;
+  }
